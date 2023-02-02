@@ -1,0 +1,12 @@
+Version: 1.5
+MainModule
+	Name:	ex8_todo
+	Dir:	{Project}
+	DclOpen:	False
+	Icl
+		WindowPosition
+			X:	284
+			Y:	4
+			SizeX:	800
+			SizeY:	528
+	IclOpen:	False
